@@ -1,0 +1,14 @@
+python-dotenv
+
+streamlit
+streamlit-oauth==0.1.9
+
+langchain
+langchain_core
+langchain-community
+langchain-openai
+langchain_anthropic
+openai
+
+pandas
+openpyxl

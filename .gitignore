@@ -1,0 +1,21 @@
+.git
+.vscode
+
+.env
+
+venv
+__pycache__
+
+# documents supporting the prototyping process
+DOCS/*
+
+# stuff that the app generates
+files/*
+
+# misc
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.upm
+logs/*
