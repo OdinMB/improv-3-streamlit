@@ -1,6 +1,6 @@
 import os
 
-APP_NAME = "NGO Academy Improv Session"
+APP_NAME = "Yearly Report based on Social Media"
 # AI Lab page
 CONFLUENCE_PAGE = ""
 
